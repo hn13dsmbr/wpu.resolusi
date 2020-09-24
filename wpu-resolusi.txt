@@ -2,3 +2,4 @@ wpu resolusi
 - belajar terus programing secara kontinyu
 - membuat dan di aplikasikan di linux
 - gabung group pengembang program
+- kolaborasi dengan banyak pengembang
